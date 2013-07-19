@@ -47,7 +47,7 @@ textarea { overflow: auto; }
 .header-inner { position: relative;  background: url(images/header-cnt.png) no-repeat center 0;  }
 
 .header-cnt #logo { width: 397px; font-size: 0; line-height: 0;  }
-.header-cnt #logo a { height: 215px; background: url(images/logo-tablet.png) no-repeat 0 0; text-indent: -4000px; display: block;  }
+.header-cnt #logo a { height: 215px; background: url(images/Dales_Logo.png) no-repeat 0 0; text-indent: -4000px; display: block;  }
 .header-cnt { width: 422px; padding-top: 30px; }
 .header-cnt h2 { font-size: 74px; line-height: 83px; color: #fff; text-shadow: rgba(0,0,0,0.5) 0px 1px 2px;  font-weight: bolder; } 
 .header-cnt h3 { font-size: 40px; padding-bottom: 8px; line-height: 50px; font-weight: normal;  color: #fff; text-shadow: rgba(0,0,0,0.5) 0px 1px 2px; font-family: tahoma, arial, helvetica, serif;  } 
